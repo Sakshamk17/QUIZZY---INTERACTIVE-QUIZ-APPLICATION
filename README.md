@@ -1,12 +1,37 @@
-# React + Vite
+# QUIZZY---INTERACTIVE-QUIZ-APPLICATION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+COMPANY: CODTECH IT SOLUTION
 
-Currently, two official plugins are available:
+NAME: SAKSHAM VIJAY KHOBRAGADE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+INTERN ID: CT04DA720
 
-## Expanding the ESLint configuration
+DOMAIN: FRONTEND WEB DEVELOPMENT
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+Quizzy is a sleek and interactive quiz application built with React.js, Tailwind CSS, and GSAP animations.  
+It fetches dynamic multiple-choice questions from the Open Trivia Database API and lets users test their knowledge in a fun, animated environment.
+
+## Features
+
+- Start quiz with a smooth animated intro
+- Randomly shuffled questions and options
+- Score tracking
+- Time taken to complete the quiz
+- Animated transitions using GSAP
+- Responsive design with Tailwind CSS
+- Live feedback on correct/incorrect answers
+- Dashboard to view final results
+- Option to restart the quiz
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- GSAP (GreenSock Animation Platform)
+- Axios (for API calls)
+- Open Trivia Database API
+
