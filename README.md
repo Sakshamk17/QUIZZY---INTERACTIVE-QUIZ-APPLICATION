@@ -73,4 +73,4 @@ quizzy/
 
 ![Image](https://github.com/user-attachments/assets/2f46a522-a461-4f3f-8323-53e3347f67d7)
 ![Image](https://github.com/user-attachments/assets/b411bcf3-2c17-4a59-a28c-046fca5dda4d)
-
+![Image](https://github.com/user-attachments/assets/d07cbbea-2c81-4a98-9ae4-25d73ff55fd3)
