@@ -35,3 +35,8 @@ It fetches dynamic multiple-choice questions from the Open Trivia Database API a
 - Axios (for API calls)
 - Open Trivia Database API
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2f46a522-a461-4f3f-8323-53e3347f67d7)
+![Image](https://github.com/user-attachments/assets/b411bcf3-2c17-4a59-a28c-046fca5dda4d)
+![Image](https://github.com/user-attachments/assets/93a8d5db-d6b5-4fdd-b33b-c9fbbb05720f)
