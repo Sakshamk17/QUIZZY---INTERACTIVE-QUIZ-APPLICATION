@@ -35,7 +35,41 @@ It fetches dynamic multiple-choice questions from the Open Trivia Database API a
 - Axios (for API calls)
 - Open Trivia Database API
 
-OUTPUT
+## Installation
+
+1. Clone the repository:
+git clone https://github.com/Sakshamk17/YOUR_REPO_NAME.git
+
+2. Navigate to the project directory:
+cd quizzy
+
+3. Install dependencies:
+npm install
+npm install tailwindcss @tailwindcss/vite
+npm install gsap
+
+4. Run the application locally:
+npm run dev
+or
+npm start
+
+## Folder Structure
+quizzy/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── QuestionCard.jsx
+│   │   ├── Dashboard.jsx
+│   ├── utils/
+│   │   ├── utils.js
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+##OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/2f46a522-a461-4f3f-8323-53e3347f67d7)
 ![Image](https://github.com/user-attachments/assets/b411bcf3-2c17-4a59-a28c-046fca5dda4d)
