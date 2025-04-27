@@ -38,17 +38,17 @@ It fetches dynamic multiple-choice questions from the Open Trivia Database API a
 ## Installation
 
 1. Clone the repository:
-2. https://github.com/Sakshamk17/QUIZZY---INTERACTIVE-QUIZ-APPLICATION.git
+ https://github.com/Sakshamk17/QUIZZY---INTERACTIVE-QUIZ-APPLICATION.git
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 cd quizzy
 
-4. Install dependencies:
+3. Install dependencies:
 npm install
 npm install tailwindcss @tailwindcss/vite
 npm install gsap
 
-5. Run the application locally:
+4. Run the application locally:
 npm run dev
 or
 npm start
